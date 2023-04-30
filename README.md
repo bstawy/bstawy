@@ -18,7 +18,7 @@
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
-
+<br>
 - 📫 How to reach me: ...
 
 <a href="https://linkedin.com/in/mohamed-bastawy-19h10" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Bastawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -26,16 +26,18 @@
 <!-- <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -->
 
 
+
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
+![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C/C++&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-05122A?style=flat&logo=Embedded-C&logoColor=563D7C)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
