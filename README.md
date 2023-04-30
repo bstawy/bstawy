@@ -13,9 +13,9 @@
 
 - 🏢 I'm a Software Engineer and Flutter Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C/C++, Python,Dart, Flutter or anything related to Core programming and Flutter development.
+- 🌱 I’m currently learning Flutter and Embedded Systems.
+- 💬 Ask me about my experience with C/C++, Python, Dart, Flutter, Data Structures and Algorithms or anything related to Core programming and Flutter development.
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
-
 
 ### Connect with Me :
 
