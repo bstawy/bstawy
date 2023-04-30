@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Mohamed Bastawy's profile!
- 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer and Flutter Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C/C++, Dart, Flutter or anything related to Core programming and Flutter development.
+- 💬 Ask me about my experience with C/C++, Python,Dart, Flutter or anything related to Core programming and Flutter development.
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
