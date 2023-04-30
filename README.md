@@ -18,7 +18,6 @@
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
-<br>
 - 📫 How to reach me: ...
 
 <a href="https://linkedin.com/in/mohamed-bastawy-19h10" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Bastawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
