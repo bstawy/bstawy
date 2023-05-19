@@ -22,13 +22,10 @@
 
 <a href="https://linkedin.com/in/mohamed-bastawy-19h10" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Bastawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/bastawii.mohamed/" target="_blank"><img src="https://img.shields.io/badge/-Bastawy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1PzQUwBiKaBEvGQrjvMxMClUXAedSRGX1/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-Bastawy-0077B5?style=for-the-badge&logo=Drive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1PzQUwBiKaBEvGQrjvMxMClUXAedSRGX1/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=Drive&logoColor=white"/></a>
 
 <!-- <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -
 ->
-https://drive.google.com/file/d/1PzQUwBiKaBEvGQrjvMxMClUXAedSRGX1/view?usp=share_link
-
-
 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
