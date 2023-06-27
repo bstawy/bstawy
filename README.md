@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-010101.svg?style=for-the-badge&logo=github&logoColor=white)   
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-7353a9.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-010101?style=for-the-badge&logo=visual-studio-code&logoColor=0e82ce) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ececec?style=for-the-badge&logo=visual-studio-code&logoColor=0e82ce) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 <!--
@@ -50,10 +50,13 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstawy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
+[![](https://visitcount.itsvg.in/api?id=bstawy&icon=6&color=9)](https://visitcount.itsvg.in)
+
+<!--
 <a href="https://komarev.com/ghpvc/?username=bstawy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bstawy&style=for-the-badge">
 </a>
-
+-->
 
 <!--
 ### Hi there 👋
