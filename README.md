@@ -50,13 +50,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstawy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-[![](https://visitcount.itsvg.in/api?id=bstawy&icon=6&color=9)](https://visitcount.itsvg.in)
 
-<!--
 <a href="https://komarev.com/ghpvc/?username=bstawy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bstawy&style=for-the-badge">
 </a>
--->
 
 <!--
 ### Hi there 👋
