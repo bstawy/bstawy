@@ -22,8 +22,6 @@
 <a href="https://www.linkedin.com/in/mohamed-bastawy-19h10" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/bastawii.mohamed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="bastawiie@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-"/></a>
-
 <a href="https://drive.google.com/file/d/1PzQUwBiKaBEvGQrjvMxMClUXAedSRGX1/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-My Resume-0077B5?style=for-the-badge&logo=Drive&logoColor=white"/></a>
 
 <!-- <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -->
