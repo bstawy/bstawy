@@ -10,10 +10,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Flutter Developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m currently learning Flutter and Embedded Systems.
+- 🏢 I'm a Communications Engineer and Flutter Developer
+- 👨‍💻 As a Communications and computer student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🌱 I’m currently learning Flutter, Augmented Reality and Unity.
 - 💬 Ask me about my experience with C/C++, Python, Dart, Flutter, Data Structures and Algorithms or anything related to Core programming and Flutter development.
+
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
@@ -25,17 +26,15 @@
 <a href="https://drive.google.com/file/d/1PzQUwBiKaBEvGQrjvMxMClUXAedSRGX1/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
 ### 💻 &nbsp;Tech Stack <!-- 🛠 -->
-## Programming Languages
+## Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-6698d3.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## Scripting Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
