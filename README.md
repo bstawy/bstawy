@@ -85,9 +85,6 @@
     <img src="https://komarev.com/ghpvc/?username=bstawy&style=for-the-badge">
 </a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohamed-bastawy-19h10" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohamed-bastawy-19h10?trk=profile-badge">Mohamed Bastawy</a></div>
-              
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
