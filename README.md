@@ -23,7 +23,6 @@
 - 📫 How to reach me: ...
 
 <a href="https://www.linkedin.com/in/mohamed-bstawy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/bastawii.mohamed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:mohamed.bastawiie@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/drive/folders/1PPomKFcwpsOXbupbg-noNnilBY7IWIqL?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
@@ -49,6 +48,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=bstawy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+<a href="https://www.facebook.com/bastawii.mohamed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
