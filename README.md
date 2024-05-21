@@ -1,11 +1,8 @@
-<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
-
 <h3 align="center">
   Hi everyone, I'm Mohamed Bastawy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
@@ -16,9 +13,9 @@
 
 - 🌱 I’m currently learning Flutter.
 
-- 💬 Ask me about my experience with C/C++, Python, Dart, Flutter, Data Structures and Algorithms or anything related to Core programming and Flutter development.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/bstawy?tab=repositories)**.
 
-<!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
+- 👨‍💻 Check out **[My Portfolio](https://bastawyportofolio.framer.website/)** to see some of the projects I've worked on.
 
 - 📫 How to reach me: ...
 
@@ -45,9 +42,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=bstawy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=bstawy&show=reviews&count_private=true&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+- 💬 Ask me about my experience with C/C++, Python, Dart, Flutter, Data Structures and Algorithms or anything related to Core programming and Flutter development.
+
 <a href="https://www.facebook.com/bastawii.mohamed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ## Languages
