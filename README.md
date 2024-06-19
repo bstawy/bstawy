@@ -23,6 +23,10 @@
 <a href="mailto:mohamed.bastawiie@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/drive/folders/1PPomKFcwpsOXbupbg-noNnilBY7IWIqL?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
+<a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bstawy?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
+
+
 ### 💻 &nbsp;Tech Stack <!-- 🛠 -->
 
 
