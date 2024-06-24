@@ -26,8 +26,9 @@
 <a href="https://www.github.com/17-35060-2Akash" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bstawy?logo=github&style=for-the-badge&color=ef4444&labelColor=831843" title="Follow me to get the updates!"/></a>
 
+&nbsp;
 
-### 💻 &nbsp;Tech Stack <!-- 🛠 -->
+## 💻 &nbsp;Tech Stack <!-- 🛠 -->
 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -41,13 +42,20 @@ src="https://img.shields.io/github/followers/bstawy?logo=github&style=for-the-ba
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+&nbsp;
+
 ## Design
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+&nbsp;
+
+## 📊 &nbsp;GitHub Stats <!-- 🛠 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=bstawy&show=reviews&count_private=true&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![snake gif](https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg)
 <!--
 Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
